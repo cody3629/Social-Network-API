@@ -7,10 +7,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
-
-},
+  },
   "dependencies": {
     "express": "^4.17.3",
+    "moment": "^2.29.1",
     "mongoose": "^6.2.6"
   }
 }
